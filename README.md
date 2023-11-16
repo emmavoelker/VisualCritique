@@ -17,7 +17,7 @@ If I were to take the critique in another direction, I may also consider re-crea
 
 As per the Stephen Few measuring/rating system for data visualizations, I rated the original visual out of ten in the following categories: 
 Usefulness: 6
-COmpleteness: 9 
+Completeness: 9 
 Perceptibility: 4
 Truthfulness: 9
 Intuitiveness: 3
@@ -49,5 +49,5 @@ Engagement: 3
 5) Is there anything you would change or do differently?
 
 ## Feedback & Changes  
-
+I changed a few of the mentioned topics from the interviewees, such as changing the color scheme around slightly. I also received some helpful feedback in class from peers. They firstly agreed that a pie chart was not an appropriate or easily-understood way to present the recall data. This confirmed my choice to instead display the data in the format of a bar chart. They then gave the feedback of instead of labeling the bars with the automotive manufacturer, to instead display the logo of the manufacturer above the bar. I liked this idea a lot, and were it not for my limitations in Tableau, I would have incorporated this idea into my final visualization. However, I am unsure of how to include such visuals in Tableau, and therefore stuck with the text labels on the X-Axis. 
 
