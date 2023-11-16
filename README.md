@@ -51,7 +51,7 @@ Engagement: 3
 ## Feedback & Changes  
 I changed a few of the mentioned topics from the interviewees, such as changing the color scheme around slightly. I also received some helpful feedback in class from peers. They firstly agreed that a pie chart was not an appropriate or easily understood way to present the recall data. This confirmed my choice to instead display the data in the format of a bar chart. They then gave the feedback of instead of labeling the bars with the automotive manufacturer, to instead display the logo of the manufacturer above the bar. I liked this idea a lot, and were it not for my limitations in Tableau, I would have incorporated this idea into my final visualization. However, I am unsure of how to include such visuals in Tableau, and therefore stuck with the text labels on the X-Axis. 
 
-## Final Visualization 
+# Final Visualization 
 With the feedback in mind, I was able to create a final visual that incorporated both my critique of the original visualization as well as others' critique of my first drafts. 
 
 ### The final visualization is the following:  
