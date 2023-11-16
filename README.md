@@ -27,18 +27,23 @@ Engagement: 3
 ## Interviews 
 ### Interview 1: Male, 24
 1) Can you tell me what you think this is?
+   
 "The amount of recalls each car manufacturer had in 2022."
 
 2) Can you describe what this is telling you?
+   
 "It is telling me Ford and Crysler experience a lot of issues that need to be recalled by the manufacturer to be fixed, meaning the cars get sold with unsolved problems."
 
 3) Is there anything you find surprising or confusing?
+   
 "The amounts in the chart, is that the total number of recalls sent out in 2022 or is it the amount of cars recalled? (such as each unit indicating thousands of cars)."
 
 4) Who do you think is the intended audience for this?
+   
 "I believe it’s intended to people interested in buying a car."
 
-6) Is there anything you would change or do differently?
+5) Is there anything you would change or do differently?
+   
 "I would clarify the data included. while I have an idea of what the number represents, I’m not 100% on what you’re trying to tell me. Including something like “each unit represents 1,000 cars” or clarifying the title would help with that."
 
 ### Interview 2: Female, 22
