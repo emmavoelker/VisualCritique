@@ -24,6 +24,19 @@ Intuitiveness: 3
 Aesthetics: 5
 Engagement: 3
 
+## First Drafts 
+For the first drafts of the charts, I decided to change the formatting of the data displayed. I instead wanted to utilize a bar chart, mainly because I believed it would be far easier for viewers to compare the totals of recalls if the differences in totals were more visible. I came up with two different sketches but only sent the first sketch to interviewees/classmates for critique as I was unsure of how to implement the ideas present in the second in software such as Tableau. 
+
+### Visualization One: 
+
+![Screen Shot 2023-11-15 at 9 07 19 PM](https://github.com/emmavoelker/VisualCritique/assets/149551887/33b736f2-283f-479c-a615-266901dfc417)
+
+
+### Visualization Two:
+
+![Screen Shot 2023-11-15 at 9 07 02 PM](https://github.com/emmavoelker/VisualCritique/assets/149551887/254e4500-b6d6-49bb-ab1e-4dd50230ce35)
+
+
 ## Interviews 
 ### Interview 1: Male, 24
 1) Can you tell me what you think this is?
