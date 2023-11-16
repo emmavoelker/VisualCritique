@@ -49,13 +49,23 @@ Engagement: 3
 ### Interview 2: Female, 22
 1) Can you tell me what you think this is?
 
+"I think it's telling me the amount of cars each manufacturer had recalled? And it looks like it's from 2022, so the recalls from that year."
+
 2) Can you describe what this is telling you?
+
+"It looks like brands like Ford are having many more issues with the cars they're selling than some of the other manufacturers. It almost makes me want to re-evaluate my buying decisions."
 
 3) Is there anything you find surprising or confusing?
 
+"I'm surprised at how many recalls there are in a year. It seems like this would be extremely bad for companies like Ford which are having so many recalls on cars they've sold." 
+
 4) Who do you think is the intended audience for this?
 
-5) Is there anything you would change or do differently?
+"I would think the intended audience would be people looking to buy cars, and maybe people who particularly care about car safety. Maybe the audience has kids and wants to ensure their car is safe."
+
+9) Is there anything you would change or do differently?
+
+"I would maybe change the colors on the graph. I feel as though the lighter color hues should come first, with the darker second to indicate a rising number. The Y-Axis is also a little confusing because I'm not sure if these numbers represent thousands of cars or some other measurement." 
 
 ## Feedback & Changes  
 I changed a few of the mentioned topics from the interviewees, such as changing the color scheme around slightly. I also changed the numbers included, as per interviewee one's suggestion, to reflect the total amount of recalls rather than a simple number from 1-50 which is difficult to understand the significance of. 
