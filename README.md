@@ -36,7 +36,7 @@ Engagement: 3
 
 3) Is there anything you find surprising or confusing?
    
-"The amounts in the chart, is that the total number of recalls sent out in 2022 or is it the amount of cars recalled? (such as each unit indicating thousands of cars)."
+"The amounts in the chart, is that the total number of recalls sent out in 2022 or is it the amount of cars recalled? (such as each unit indicating thousands of cars)." 
 
 4) Who do you think is the intended audience for this?
    
