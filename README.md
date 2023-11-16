@@ -27,15 +27,19 @@ Engagement: 3
 ## Interviews 
 ### Interview 1: Male, 24
 1) Can you tell me what you think this is?
+"The amount of recalls each car manufacturer had in 2022."
 
 2) Can you describe what this is telling you?
+"It is telling me Ford and Crysler experience a lot of issues that need to be recalled by the manufacturer to be fixed, meaning the cars get sold with unsolved problems."
 
 3) Is there anything you find surprising or confusing?
+"The amounts in the chart, is that the total number of recalls sent out in 2022 or is it the amount of cars recalled? (such as each unit indicating thousands of cars)."
 
 4) Who do you think is the intended audience for this?
+"I believe it’s intended to people interested in buying a car."
 
-5) Is there anything you would change or do differently?
-
+6) Is there anything you would change or do differently?
+"I would clarify the data included. while I have an idea of what the number represents, I’m not 100% on what you’re trying to tell me. Including something like “each unit represents 1,000 cars” or clarifying the title would help with that."
 
 ### Interview 2: Female, 22
 1) Can you tell me what you think this is?
@@ -49,7 +53,9 @@ Engagement: 3
 5) Is there anything you would change or do differently?
 
 ## Feedback & Changes  
-I changed a few of the mentioned topics from the interviewees, such as changing the color scheme around slightly. I also received some helpful feedback in class from peers. They firstly agreed that a pie chart was not an appropriate or easily understood way to present the recall data. This confirmed my choice to instead display the data in the format of a bar chart. They then gave the feedback of instead of labeling the bars with the automotive manufacturer, to instead display the logo of the manufacturer above the bar. I liked this idea a lot, and were it not for my limitations in Tableau, I would have incorporated this idea into my final visualization. However, I am unsure of how to include such visuals in Tableau, and therefore stuck with the text labels on the X-Axis. 
+I changed a few of the mentioned topics from the interviewees, such as changing the color scheme around slightly. I also changed the numbers included, as per interviewee one's suggestion, to reflect the total amount of recalls rather than a simple number from 1-50 which is difficult to understand the significance of. 
+
+I also received some helpful feedback in class from peers. They firstly agreed that a pie chart was not an appropriate or easily understood way to present the recall data. This confirmed my choice to instead display the data in the format of a bar chart. They then gave the feedback of instead of labeling the bars with the automotive manufacturer, to instead display the logo of the manufacturer above the bar. I liked this idea a lot, and were it not for my limitations in Tableau, I would have incorporated this idea into my final visualization. However, I am unsure of how to include such visuals in Tableau, and therefore stuck with the text labels on the X-Axis. 
 
 # Final Visualization 
 With the feedback in mind, I was able to create a final visual that incorporated both my critique of the original visualization as well as others' critique of my first drafts. 
