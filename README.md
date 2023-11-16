@@ -24,4 +24,30 @@ Intuitiveness: 3
 Aesthetics: 5
 Engagement: 3
 
+## Interviews 
+### Interview 1: Male, 24
+1) Can you tell me what you think this is?
+
+2) Can you describe what this is telling you?
+
+3) Is there anything you find surprising or confusing?
+
+4) Who do you think is the intended audience for this?
+
+5) Is there anything you would change or do differently?
+
+
+### Interview 2: Female, 22
+1) Can you tell me what you think this is?
+
+2) Can you describe what this is telling you?
+
+3) Is there anything you find surprising or confusing?
+
+4) Who do you think is the intended audience for this?
+
+5) Is there anything you would change or do differently?
+
+## Feedback & Changes  
+
 
